@@ -1,3 +1,18 @@
+# Github-Finder
+
+This project lets you search for Github users using the Github API. You can search for them using their name or username.
+The project uses modern React features such as Hooks, Context API etc.
+The App level state is managed using the modern Context API and Hooks instead of Redux.
+
+[Live Site](https://pedantic-lalande-2a741d.netlify.com/)
+
+Project was built by [Shivam Kaushik](Shivamkaushikofficial@gmail.com)
+
+## Sample screenshots
+
+![Homepage](https://pedantic-lalande-2a741d.netlify.com/homepage.png)
+![Profile View](https://pedantic-lalande-2a741d.netlify.com/profile_view.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
