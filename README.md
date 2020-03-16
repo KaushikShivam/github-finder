@@ -49,5 +49,3 @@ You can contact me at:
 - [Twitter](https://twitter.com/kShivamDev)
 - [Medium](https://medium.com/@shivamkaushikofficial)
 - [Angellist](https://angel.co/kshivamdev)
-
-## Sample screenshots
